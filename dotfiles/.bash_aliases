@@ -1,0 +1,11 @@
+alias ll='ls -la'
+alias lt='ls -latr'
+alias ps='ps -ef'
+alias netstat='netstat -antup'
+alias ls='ls --color=auto'
+alias dir='dir --color=auto'
+alias vdir='vdir --color=auto'
+alias grep='grep --color=auto'
+alias fgrep='fgrep --color=auto'
+alias egrep='egrep --color=auto'
+
