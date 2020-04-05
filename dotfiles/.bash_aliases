@@ -1,5 +1,5 @@
-alias ll='ls -la'
-alias lt='ls -latr'
+alias ll='ls -laF'
+alias lt='ls -latrF'
 alias ps='ps -ef'
 alias netstat='netstat -antup'
 alias ls='ls --color=auto'
